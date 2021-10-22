@@ -1,1 +1,1 @@
-# Game-of-Life
+Code for Game of Life project.
